@@ -1,0 +1,14 @@
+apple 5
+banana 3
+cashewnut 4
+apple 3
+banana 3
+cashewnut 3
+dominos 7
+banana 3
+cashewnut 3
+dominos 5
+banana 4
+cashewnut 3
+dominos 5
+egg 4

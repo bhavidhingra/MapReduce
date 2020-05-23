@@ -1,0 +1,26 @@
+Sun Nov 25 17:52:46 2018 : "run (294): bind failed"
+Sun Nov 25 17:53:08 2018 : "ReducerTracker listening on 127.0.0.1:4000"
+Sun Nov 25 17:55:45 2018 : "New mapper with socket id 4 connected
+"
+Sun Nov 25 17:55:45 2018 : "Request read: 1$1$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_index_file_1.txt"
+Sun Nov 25 17:55:45 2018 : "Handling request: 1$1$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_index_file_1.txt
+"
+Sun Nov 25 17:55:45 2018 : "Mapper disconnected!! <ip_addr>:<port> -> 127.0.0.1:55750"
+Sun Nov 25 17:55:49 2018 : "New mapper with socket id 4 connected
+"
+Sun Nov 25 17:55:49 2018 : "Request read: 1$1$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_index_file_2.txt"
+Sun Nov 25 17:55:49 2018 : "Handling request: 1$1$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_index_file_2.txt
+"
+Sun Nov 25 17:55:49 2018 : "Mapper disconnected!! <ip_addr>:<port> -> 127.0.0.1:55752"
+Sun Nov 25 17:55:51 2018 : "New mapper with socket id 4 connected
+"
+Sun Nov 25 17:55:51 2018 : "Request read: 1$1$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_index_file_3.txt"
+Sun Nov 25 17:55:51 2018 : "Handling request: 1$1$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_index_file_3.txt
+"
+Sun Nov 25 17:55:51 2018 : "Mapper disconnected!! <ip_addr>:<port> -> 127.0.0.1:55754"
+Sun Nov 25 17:55:54 2018 : "New mapper with socket id 4 connected
+"
+Sun Nov 25 17:55:54 2018 : "Request read: 1$1$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_index_file_4.txt"
+Sun Nov 25 17:55:54 2018 : "Handling request: 1$1$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_index_file_4.txt
+"
+Sun Nov 25 17:55:54 2018 : "Mapper disconnected!! <ip_addr>:<port> -> 127.0.0.1:55756"

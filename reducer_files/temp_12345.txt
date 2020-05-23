@@ -1,0 +1,5 @@
+apple 8
+banana 13
+cashewnut 13
+dominos 17
+egg 4

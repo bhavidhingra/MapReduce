@@ -1,0 +1,76 @@
+Sun Nov 25 20:08:28 2018 : "run (196): bind failed"
+Sun Nov 25 20:08:58 2018 : "SuperReducer listening on 127.0.0.1:4000"
+Sun Nov 25 20:09:29 2018 : "New reducer with socket id 4 connected
+"
+Sun Nov 25 20:09:29 2018 : "Request read: 0$0$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_file_1.txt"
+Sun Nov 25 20:09:29 2018 : "Handling request: 0$0$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_file_1.txt
+"
+Sun Nov 25 20:09:29 2018 : "Reducer disconnected!! <ip_addr>:<port> -> 127.0.0.1:56208"
+Sun Nov 25 20:09:32 2018 : "New reducer with socket id 4 connected
+"
+Sun Nov 25 20:09:32 2018 : "Request read: 0$0$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_file_2.txt"
+Sun Nov 25 20:09:32 2018 : "Handling request: 0$0$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_file_2.txt
+"
+Sun Nov 25 20:09:32 2018 : "Reducer disconnected!! <ip_addr>:<port> -> 127.0.0.1:56210"
+Sun Nov 25 20:09:35 2018 : "New reducer with socket id 4 connected
+"
+Sun Nov 25 20:09:35 2018 : "Request read: 0$0$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_file_3.txt"
+Sun Nov 25 20:09:35 2018 : "Handling request: 0$0$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_file_3.txt
+"
+Sun Nov 25 20:09:35 2018 : "Reducer disconnected!! <ip_addr>:<port> -> 127.0.0.1:56212"
+Sun Nov 25 20:09:38 2018 : "New reducer with socket id 4 connected
+"
+Sun Nov 25 20:09:38 2018 : "Request read: 0$0$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_file_4.txt"
+Sun Nov 25 20:09:38 2018 : "Handling request: 0$0$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_file_4.txt
+"
+Sun Nov 25 20:09:38 2018 : "Reducer disconnected!! <ip_addr>:<port> -> 127.0.0.1:56214"
+Sun Nov 25 20:10:22 2018 : "New reducer with socket id 4 connected
+"
+Sun Nov 25 20:10:22 2018 : "Request read: 0$0$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_file_1.txt"
+Sun Nov 25 20:10:22 2018 : "Handling request: 0$0$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_file_1.txt
+"
+Sun Nov 25 20:10:22 2018 : "Reducer disconnected!! <ip_addr>:<port> -> 127.0.0.1:56242"
+Sun Nov 25 20:10:26 2018 : "New reducer with socket id 4 connected
+"
+Sun Nov 25 20:10:26 2018 : "Request read: 0$0$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_file_2.txt"
+Sun Nov 25 20:10:26 2018 : "Handling request: 0$0$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_file_2.txt
+"
+Sun Nov 25 20:10:26 2018 : "Reducer disconnected!! <ip_addr>:<port> -> 127.0.0.1:56244"
+Sun Nov 25 20:10:29 2018 : "New reducer with socket id 4 connected
+"
+Sun Nov 25 20:10:29 2018 : "Request read: 0$0$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_file_3.txt"
+Sun Nov 25 20:10:29 2018 : "Handling request: 0$0$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_file_3.txt
+"
+Sun Nov 25 20:10:29 2018 : "Reducer disconnected!! <ip_addr>:<port> -> 127.0.0.1:56246"
+Sun Nov 25 20:10:32 2018 : "New reducer with socket id 4 connected
+"
+Sun Nov 25 20:10:32 2018 : "Request read: 0$0$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_file_4.txt"
+Sun Nov 25 20:10:32 2018 : "Handling request: 0$0$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_file_4.txt
+"
+Sun Nov 25 20:10:32 2018 : "Reducer disconnected!! <ip_addr>:<port> -> 127.0.0.1:56248"
+Sun Nov 25 20:11:04 2018 : "run (196): bind failed"
+Sun Nov 25 20:11:24 2018 : "SuperReducer listening on 127.0.0.1:4000"
+Sun Nov 25 20:11:33 2018 : "New reducer with socket id 4 connected
+"
+Sun Nov 25 20:11:33 2018 : "Request read: 0$0$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_file_1.txt"
+Sun Nov 25 20:11:33 2018 : "Handling request: 0$0$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_file_1.txt
+"
+Sun Nov 25 20:11:33 2018 : "Reducer disconnected!! <ip_addr>:<port> -> 127.0.0.1:56256"
+Sun Nov 25 20:11:34 2018 : "New reducer with socket id 4 connected
+"
+Sun Nov 25 20:11:34 2018 : "Request read: 0$0$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_file_2.txt"
+Sun Nov 25 20:11:34 2018 : "Handling request: 0$0$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_file_2.txt
+"
+Sun Nov 25 20:11:34 2018 : "Reducer disconnected!! <ip_addr>:<port> -> 127.0.0.1:56258"
+Sun Nov 25 20:11:36 2018 : "New reducer with socket id 4 connected
+"
+Sun Nov 25 20:11:36 2018 : "Request read: 0$0$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_file_3.txt"
+Sun Nov 25 20:11:36 2018 : "Handling request: 0$0$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_file_3.txt
+"
+Sun Nov 25 20:11:36 2018 : "Reducer disconnected!! <ip_addr>:<port> -> 127.0.0.1:56260"
+Sun Nov 25 20:11:38 2018 : "New reducer with socket id 4 connected
+"
+Sun Nov 25 20:11:38 2018 : "Request read: 0$0$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_file_4.txt"
+Sun Nov 25 20:11:38 2018 : "Handling request: 0$0$/home/bhavidhingra/google-drive-iiith/Semester_#1/CSE531_OS_PG/Project/MapReduce_Project/reducer_files/word_file_4.txt
+"
+Sun Nov 25 20:11:38 2018 : "Reducer disconnected!! <ip_addr>:<port> -> 127.0.0.1:56262"

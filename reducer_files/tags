@@ -1,0 +1,57 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+FAILURE	utilities.h	8;"	d
+INT_MAX	includes.h	21;"	d
+MAX_DOWNLOADS	reducer_worker.cpp	32;"	d	file:
+MAX_MAPPERS	reducer_worker.cpp	33;"	d	file:
+PIECE_SIZE	reducer_worker.cpp	28;"	d	file:
+Problem	utilities.h	/^enum class Problem$/;"	c
+REDUCER	reducer_worker.cpp	31;"	d	file:
+ReducerTracker	reducer_server.h	/^    ReducerTracker(std::string ip = "", int p = -1): ip_addr(ip), port(p), sock(-1)$/;"	f	class:ReducerTracker
+ReducerTracker	reducer_server.h	/^class ReducerTracker$/;"	c
+ReducerTracker	reducer_worker.h	/^    ReducerTracker(std::string ip = "", int p = -1): m_ip_addr(ip), m_port(p), m_sock(-1), m_log_path("") {}$/;"	f	class:ReducerTracker
+ReducerTracker	reducer_worker.h	/^class ReducerTracker$/;"	c
+SUCCESS	utilities.h	9;"	d
+WORD_COUNT	utilities.h	/^    WORD_COUNT,$/;"	m	class:Problem
+_INCLUDES_H_	includes.h	2;"	d
+_REDUCER_SERVER_H_	reducer_server.h	2;"	d
+_REDUCER_SERVER_H_	reducer_worker.h	2;"	d
+_UTILITIES_H_	utilities.h	2;"	d
+command_size_check	reducer_worker.cpp	/^int command_size_check(vector<string> &v, unsigned int min_size, unsigned int max_size, string error_msg)$/;"	f
+count_all_words	reducer_worker.cpp	/^void ReducerTracker::count_all_words(int job_id)$/;"	f	class:ReducerTracker
+current_timestamp_get	reducer_worker.cpp	/^string current_timestamp_get()$/;"	f
+ip_addr	reducer_server.h	/^    std::string ip_addr;$/;"	m	class:ReducerTracker
+ip_addr_set	reducer_worker.h	/^    void                    ip_addr_set(std::string str) { util_ip_port_split (str, m_ip_addr, m_port); }$/;"	f	class:ReducerTracker
+job_file_add	reducer_worker.cpp	/^void ReducerTracker::job_file_add(int job_id, string file_path)$/;"	f	class:ReducerTracker
+job_files_get	reducer_worker.cpp	/^set<string>& ReducerTracker::job_files_get(int job_id)$/;"	f	class:ReducerTracker
+job_remove	reducer_worker.cpp	/^void ReducerTracker::job_remove(int job_id)$/;"	f	class:ReducerTracker
+log_path_set	reducer_worker.h	/^    void                    log_path_set(std::string path) { m_log_path = path; }$/;"	f	class:ReducerTracker
+log_print	reducer_worker.cpp	/^void ReducerTracker::log_print(string msg)$/;"	f	class:ReducerTracker
+m_ip_addr	reducer_worker.h	/^    std::string m_ip_addr;$/;"	m	class:ReducerTracker
+m_job_files_map	reducer_worker.h	/^    std::map<int, std::set<std::string>> m_job_files_map;$/;"	m	class:ReducerTracker
+m_log_path	reducer_worker.h	/^    std::string m_log_path;$/;"	m	class:ReducerTracker
+m_port	reducer_worker.h	/^    int m_port;$/;"	m	class:ReducerTracker
+m_sock	reducer_worker.h	/^    int m_sock;$/;"	m	class:ReducerTracker
+m_sock_address	reducer_worker.h	/^    struct sockaddr_in m_sock_address;$/;"	m	class:ReducerTracker	typeref:struct:ReducerTracker::sockaddr_in
+main	dummy_mapper.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	reducer_worker.cpp	/^int main(int argc, char* argv[])$/;"	f
+mapper_request_handler	reducer_worker.cpp	/^void ReducerTracker::mapper_request_handler(int mapper_sock, string req_str)$/;"	f	class:ReducerTracker
+num_job_files	reducer_worker.cpp	/^int ReducerTracker::num_job_files(int job_id)$/;"	f	class:ReducerTracker
+num_mappers_alive	reducer_worker.cpp	/^static int            num_mappers_alive = MAX_MAPPERS;$/;"	v	file:
+pb	reducer_worker.cpp	29;"	d	file:
+pb	utilities.h	6;"	d
+port	reducer_server.h	/^    int port;$/;"	m	class:ReducerTracker
+request_send	reducer_server.cpp	/^int ReducerTracker::request_send(Problem problem, int job_id, string file_path)$/;"	f	class:ReducerTracker
+run	reducer_worker.cpp	/^void ReducerTracker::run()$/;"	f	class:ReducerTracker
+sock	reducer_server.h	/^    int sock;$/;"	m	class:ReducerTracker
+sock_get	reducer_server.h	/^    int sock_get() { return sock; }$/;"	f	class:ReducerTracker
+util_abs_path_get	utilities.cpp	/^string util_abs_path_get(string str)$/;"	f
+util_connection_make	utilities.cpp	/^int util_connection_make(string ip, uint16_t port)$/;"	f
+util_data_read	utilities.cpp	/^void util_data_read(int sock, char* read_buffer, int size_to_read)$/;"	f
+util_from_cursor_line_clear	utilities.cpp	/^void util_from_cursor_line_clear()$/;"	f
+util_ip_port_split	utilities.cpp	/^void util_ip_port_split(string addr, string &ip, int &port)$/;"	f
+working_dir	reducer_worker.cpp	/^string working_dir;$/;"	v

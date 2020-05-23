@@ -1,0 +1,46 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+MAX_CONNECTIONS	master_server.h	12;"	d
+MAX_DOWNLOADS	master_server.cpp	26;"	d	file:
+Master	master_client.h	/^    Master(std::string ip = "", int p = -1): sock(-1), port(p), ip_addr(ip)$/;"	f	class:Master
+Master	master_client.h	/^class Master$/;"	c
+Master	master_server.h	/^    Master(std::string ip = "", int p = -1): m_log_path(""), m_port(p), m_sock(-1), m_ip_addr(ip) {}$/;"	f	class:Master
+Master	master_server.h	/^class Master$/;"	c
+PIECE_SIZE	master_server.cpp	23;"	d	file:
+_MASTER_SERVER_H_	master_server.h	2;"	d
+_REDUCER_SERVER_H_	master_client.h	2;"	d
+command_size_check	master_server.cpp	/^int command_size_check(vector<string> &v, unsigned int min_size, unsigned int max_size, string error_msg)$/;"	f
+count_all_words	master_server.cpp	/^void Master::count_all_words(int job_id)$/;"	f	class:Master
+current_timestamp_get	master_server.cpp	/^string current_timestamp_get()$/;"	f
+index_all_words	master_server.cpp	/^void Master::index_all_words(int job_id)$/;"	f	class:Master
+ip_addr	master_client.h	/^    std::string ip_addr;$/;"	m	class:Master
+ip_addr_set	master_server.h	/^    void                    ip_addr_set(std::string str) { util_ip_port_split (str, m_ip_addr, m_port); }$/;"	f	class:Master
+job_file_add	master_server.cpp	/^void Master::job_file_add(int job_id, string file_path)$/;"	f	class:Master
+job_files_get	master_server.cpp	/^set<string>& Master::job_files_get(int job_id)$/;"	f	class:Master
+job_remove	master_server.cpp	/^void Master::job_remove(int job_id)$/;"	f	class:Master
+log_path_set	master_server.h	/^    void                    log_path_set(std::string path) { m_log_path = path; }$/;"	f	class:Master
+log_print	master_server.cpp	/^void Master::log_print(string msg)$/;"	f	class:Master
+m_ip_addr	master_server.h	/^    std::string m_ip_addr;$/;"	m	class:Master
+m_job_files_map	master_server.h	/^    std::map<int, std::set<std::string>> m_job_files_map;$/;"	m	class:Master
+m_log_path	master_server.h	/^    std::string m_log_path;$/;"	m	class:Master
+m_port	master_server.h	/^    int m_port;$/;"	m	class:Master
+m_sock	master_server.h	/^    int m_sock;$/;"	m	class:Master
+m_sock_address	master_server.h	/^    struct sockaddr_in m_sock_address;$/;"	m	class:Master	typeref:struct:Master::sockaddr_in
+main	master.cpp	/^int main()$/;"	f
+main	master_server.cpp	/^int main(int argc, char* argv[])$/;"	f
+mapper_sockets	master_server.h	/^    int mapper_sockets[MAX_CONNECTIONS];$/;"	m	class:Master
+num_job_files	master_server.cpp	/^int Master::num_job_files(int job_id)$/;"	f	class:Master
+num_mappers_alive	master_server.cpp	/^static int            num_mappers_alive = MAX_MAPPERS;$/;"	v	file:
+pb	master_server.cpp	24;"	d	file:
+port	master_client.h	/^    int port;$/;"	m	class:Master
+reducer_sockets	master_server.h	/^    int reducer_sockets[MAX_CONNECTIONS];$/;"	m	class:Master
+request_handler	master_server.cpp	/^void Master::request_handler(int sock, string req_str)$/;"	f	class:Master
+request_send	master_client.cpp	/^int Master::request_send(Problem problem, int job_id, string file_path)$/;"	f	class:Master
+run	master_server.cpp	/^void Master::run()$/;"	f	class:Master
+sock	master_client.h	/^    int sock;$/;"	m	class:Master
+sock_get	master_client.h	/^    int sock_get() { return sock; }$/;"	f	class:Master
+working_dir	master_server.cpp	/^string working_dir;$/;"	v
